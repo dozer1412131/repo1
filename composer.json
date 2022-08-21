@@ -1,6 +1,7 @@
 {
     "name": "dozer1412131/repo1",
     "type": "library",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "Alex\\Repo1\\": "src/"
